@@ -1,1 +1,1 @@
-# translator-app
+# yandex-translate-app
